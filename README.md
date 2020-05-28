@@ -3,4 +3,4 @@ En este repositorio encotrará un recuento de herramientas necesarias para la en
 
 ##Listado de heramientas:
 
-1 Openboard
+1 [Openboard](https://github.com/rentov/herramientas-para-la-docencia/issues/1)
